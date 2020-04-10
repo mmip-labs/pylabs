@@ -1,8 +1,1 @@
-
-
-name = input('Enter name: ')
-
-print('Hello, ', name)
-
-
-
+"Bug fix" 

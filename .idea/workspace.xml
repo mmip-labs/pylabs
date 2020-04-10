@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f3b7bb-fe52-4e47-825e-11d7e9fee5a7" name="Default Changelist" comment="" />
+    <list default="true" id="68f3b7bb-fe52-4e47-825e-11d7e9fee5a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a7AfLj15JkZM7tfk9nmH2s8X1G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -174,6 +180,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586077878279">
       <screen x="0" y="0" width="1600" height="860" />
@@ -191,10 +208,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="519" y="56" key="#test2/0.0.1600.860@0.0.1600.860" timestamp="1586091831017" />
-    <state x="580" y="172" key="FileChooserDialogImpl" timestamp="1586195305203">
+    <state x="580" y="172" key="FileChooserDialogImpl" timestamp="1586530354974">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="172" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586195305203" />
+    <state x="580" y="172" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586530354974" />
     <state width="1579" height="146" key="GridCell.Tab.0.bottom" timestamp="1586195313762">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -215,6 +232,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="296" y="37" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586080392457" />
+    <state x="657" y="135" width="775" height="608" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1586530668618">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="657" y="135" width="775" height="608" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1586530668618" />
     <state x="501" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1586076367641">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

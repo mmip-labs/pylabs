@@ -1,9 +1,9 @@
 
 # Strings
 
-name = 'Terminator'
+name = 'Terminator2'
 
-genre = 'Action film'
+genre = 'Action film with Arnold Sharcenegger'
 
 rank = 400
 
